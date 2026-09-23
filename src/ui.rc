@@ -1,0 +1,23 @@
+<!DOCTYPE kpartgui SYSTEM "kpartgui.dtd">
+<gui name="kateantigravity" library="kateantigravity" version="4">
+  <MenuBar>
+    <Menu name="tools"><text>&amp;Tools</text>
+      <Action name="antigravity_trigger_suggestion" group="tools_operations" />
+      <Action name="antigravity_clear_suggestion" group="tools_operations" />
+      <Action name="antigravity_toggle_chat" group="tools_operations" />
+      <Separator group="tools_operations" />
+      <Action name="antigravity_send_selection" group="tools_operations" />
+      <Action name="antigravity_explain_code" group="tools_operations" />
+      <Action name="antigravity_refactor_code" group="tools_operations" />
+      <Action name="antigravity_find_bugs" group="tools_operations" />
+      <Action name="antigravity_generate_tests" group="tools_operations" />
+    </Menu>
+  </MenuBar>
+  <ToolBar name="mainToolBar"><text>Main Toolbar</text>
+    <Action name="antigravity_toggle_chat" />
+  </ToolBar>
+  <ActionProperties scheme="Default">
+    <Action name="antigravity_trigger_suggestion" shortcut="Alt+\" />
+    <Action name="antigravity_toggle_chat" shortcut="Ctrl+Alt+A" />
+  </ActionProperties>
+</gui>

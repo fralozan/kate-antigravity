@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Name": "Antigravity",
+        "Name[es]": "Antigravity",
+        "Description": "Inline AI code completions (Ghost Text) and Chat sidebar powered by Antigravity AI",
+        "Description[es]": "Autocompletado de código en línea con IA (Ghost Text) y panel de chat impulsado por Antigravity AI",
+        "Category": "Editor",
+        "ServiceTypes": [
+            "KTextEditor/Plugin"
+        ],
+        "Version": "1.0.0",
+        "Authors": [
+            {
+                "Name": "FELINUX SAS",
+                "Email": "info@felinux.com.co"
+            }
+        ],
+        "License": "GPL-3.0-or-later",
+        "EnabledByDefault": true
+    }
+}

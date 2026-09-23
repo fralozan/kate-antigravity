@@ -1,0 +1,1954 @@
+# Spanish translations for kateantigravity package.
+# Copyright (C) 2026 FELINUX SAS
+# This file is distributed under the same license as the kateantigravity package.
+# FELINUX SAS <info@felinux.com.co>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kateantigravity 1.0.0\n"
+"Report-Msgid-Bugs-To: info@felinux.com.co\n"
+"POT-Creation-Date: 2026-09-22 19:05-0500\n"
+"PO-Revision-Date: 2026-09-21 17:00-0500\n"
+"Last-Translator: FELINUX SAS <info@felinux.com.co>\n"
+"Language-Team: Spanish <es@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/agyinfodialog.cpp:30 src/slashcommandrouter.cpp:32
+#, kde-format
+msgid "ready to reset"
+msgstr "listo para reiniciar"
+
+#: src/agyinfodialog.cpp:39 src/slashcommandrouter.cpp:41
+#, kde-format
+msgid "in %1 d, %2 h"
+msgstr "en %1 d, %2 h"
+
+#: src/agyinfodialog.cpp:41 src/slashcommandrouter.cpp:43
+#, kde-format
+msgid "in %1 d"
+msgstr "en %1 d"
+
+#: src/agyinfodialog.cpp:45 src/slashcommandrouter.cpp:47
+#, kde-format
+msgid "in %1 h, %2 min"
+msgstr "en %1 h, %2 min"
+
+#: src/agyinfodialog.cpp:47 src/slashcommandrouter.cpp:49
+#, kde-format
+msgid "in %1 h"
+msgstr "en %1 h"
+
+#: src/agyinfodialog.cpp:49 src/slashcommandrouter.cpp:51
+#, kde-format
+msgid "in %1 min"
+msgstr "en %1 min"
+
+#: src/agyinfodialog.cpp:110
+#, kde-format
+msgid "Antigravity AI — Help & Slash Commands"
+msgstr "Antigravity AI — Ayuda y Comandos Slash"
+
+#: src/agyinfodialog.cpp:112
+#, kde-format
+msgid "Antigravity AI Commands & Shortcuts"
+msgstr "Comandos y Atajos de Antigravity AI"
+
+#: src/agyinfodialog.cpp:113
+#, kde-format
+msgid "Quick reference for commands, mentions, and navigation in Kate"
+msgstr "Referencia rápida de comandos, menciones y navegación en Kate"
+
+#: src/agyinfodialog.cpp:117
+#, kde-format
+msgid "Antigravity AI — Session Statistics & Quotas"
+msgstr "Antigravity AI — Estadísticas de Sesión y Cuotas"
+
+#: src/agyinfodialog.cpp:119
+#, kde-format
+msgid "Account, Token Usage & Quotas"
+msgstr "Cuenta, Consumo de Tokens y Cuotas"
+
+#: src/agyinfodialog.cpp:120
+#, kde-format
+msgid "Current Google AI session status, token metrics and rate limits"
+msgstr ""
+"Estado actual de sesión en Google AI, métricas de tokens y límites de tasa"
+
+#: src/agyinfodialog.cpp:124
+#, kde-format
+msgid "Antigravity AI — Project Information"
+msgstr "Antigravity AI — Información del Proyecto"
+
+#: src/agyinfodialog.cpp:126
+#, kde-format
+msgid "Active Workspace Project"
+msgstr "Proyecto del Espacio de Trabajo Activo"
+
+#: src/agyinfodialog.cpp:127
+#, kde-format
+msgid "Details and Git repository status for the current session"
+msgstr "Detalles y estado del repositorio Git para la sesión actual"
+
+#: src/agyinfodialog.cpp:167
+#, kde-format
+msgid "Refresh"
+msgstr "Actualizar"
+
+#: src/agyinfodialog.cpp:204
+#, kde-format
+msgid "Slash Commands"
+msgstr "Comandos Slash"
+
+#: src/agyinfodialog.cpp:205
+#, kde-format
+msgid "Command"
+msgstr "Comando"
+
+#: src/agyinfodialog.cpp:206
+#, kde-format
+msgid "Syntax"
+msgstr "Sintaxis"
+
+#: src/agyinfodialog.cpp:207
+#, kde-format
+msgid "Description"
+msgstr "Descripción"
+
+#: src/agyinfodialog.cpp:232
+#, kde-format
+msgid "Smart Context Mentions (@)"
+msgstr "Menciones de Contexto Inteligentes (@)"
+
+#: src/agyinfodialog.cpp:233
+#, kde-format
+msgid "Attach file content or selection to prompt"
+msgstr "Adjunta contenido del archivo o selección al prompt"
+
+#: src/agyinfodialog.cpp:234
+#, kde-format
+msgid "Attach folder directory tree structure"
+msgstr "Adjunta la estructura de directorios de la carpeta"
+
+#: src/agyinfodialog.cpp:235
+#, kde-format
+msgid "@errors"
+msgstr "@errores"
+
+#: src/agyinfodialog.cpp:236
+#, kde-format
+msgid "Attach active compiler warnings & LSP diagnostic marks"
+msgstr "Adjunta advertencias del compilador y marcas de diagnóstico LSP"
+
+#: src/agyinfodialog.cpp:237
+#, kde-format
+msgid "Keyboard Shortcuts"
+msgstr "Atajos de Teclado"
+
+#: src/agyinfodialog.cpp:238
+#, kde-format
+msgid "Send message / prompt"
+msgstr "Enviar mensaje / prompt"
+
+#: src/agyinfodialog.cpp:239
+#, kde-format
+msgid "Execute slash command immediately"
+msgstr "Ejecutar comando slash inmediatamente"
+
+#: src/agyinfodialog.cpp:240
+#, kde-format
+msgid "Clear visible chat display"
+msgstr "Limpiar diálogo visible del chat"
+
+#: src/agyinfodialog.cpp:241
+#, kde-format
+msgid "Accept popup completion item / ghost text"
+msgstr "Aceptar sugerencia del popup / texto fantasma"
+
+#: src/agyinfodialog.cpp:248 src/slashcommandrouter.cpp:191
+#, kde-format
+msgid "Not authenticated"
+msgstr "No autenticado"
+
+#: src/agyinfodialog.cpp:265
+#, kde-format
+msgid "Session & Account"
+msgstr "Sesión y Cuenta"
+
+#: src/agyinfodialog.cpp:266
+#, kde-format
+msgid "Google AI Account"
+msgstr "Cuenta de Google AI"
+
+#: src/agyinfodialog.cpp:267
+#, kde-format
+msgid "Auth Method"
+msgstr "Método de autenticación"
+
+#: src/agyinfodialog.cpp:268
+#, kde-format
+msgid "Active Project"
+msgstr "Proyecto activo"
+
+#: src/agyinfodialog.cpp:268 src/agyinfodialog.cpp:366
+#: src/chatsessionmanager.cpp:155 src/slashcommandrouter.cpp:204
+#, kde-format
+msgid "General"
+msgstr "General"
+
+#: src/agyinfodialog.cpp:269
+#, kde-format
+msgid "Current Model"
+msgstr "Modelo actual"
+
+#: src/agyinfodialog.cpp:270
+#, kde-format
+msgid "Backend Mode"
+msgstr "Modo de backend"
+
+#: src/agyinfodialog.cpp:271
+#, kde-format
+msgid "Messages in Session"
+msgstr "Mensajes en la Sesión"
+
+#: src/agyinfodialog.cpp:288
+#, kde-format
+msgid "Token Usage"
+msgstr "Uso de tokens"
+
+#: src/agyinfodialog.cpp:289
+#, kde-format
+msgid "Metric"
+msgstr "Métrica"
+
+#: src/agyinfodialog.cpp:289
+#, kde-format
+msgid "Last Turn"
+msgstr "Último turno"
+
+#: src/agyinfodialog.cpp:289
+#, kde-format
+msgid "Session Cumulative"
+msgstr "Acumulado de sesión"
+
+#: src/agyinfodialog.cpp:290 src/agyinfodialog.cpp:310
+#, kde-format
+msgid "Input Tokens"
+msgstr "Tokens de entrada"
+
+#: src/agyinfodialog.cpp:291 src/agyinfodialog.cpp:311
+#, kde-format
+msgid "Output Tokens"
+msgstr "Tokens de salida"
+
+#: src/agyinfodialog.cpp:292
+#, kde-format
+msgid "Thinking Tokens"
+msgstr "Tokens de razonamiento"
+
+#: src/agyinfodialog.cpp:293 src/agyinfodialog.cpp:309
+#, kde-format
+msgid "Total Tokens"
+msgstr "Tokens totales"
+
+#: src/agyinfodialog.cpp:308
+#, kde-format
+msgid "All-Time Usage"
+msgstr "Uso histórico"
+
+#: src/agyinfodialog.cpp:312
+#, kde-format
+msgid "Turns Recorded"
+msgstr "Turnos registrados"
+
+#: src/agyinfodialog.cpp:321
+#, kde-format
+msgid "Recent Daily Usage"
+msgstr "Uso diario reciente"
+
+#: src/agyinfodialog.cpp:321
+#, kde-format
+msgid "Date"
+msgstr "Fecha"
+
+#: src/agyinfodialog.cpp:322
+#, kde-format
+msgid "Input"
+msgstr "Entrada"
+
+#: src/agyinfodialog.cpp:322
+#, kde-format
+msgid "Output"
+msgstr "Salida"
+
+#: src/agyinfodialog.cpp:322
+#, kde-format
+msgid "Total"
+msgstr "Total"
+
+#: src/agyinfodialog.cpp:342
+#, kde-format
+msgid "Quotas & Rate Limits"
+msgstr "Cuotas y límites de uso"
+
+#: src/agyinfodialog.cpp:343
+#, kde-format
+msgid "Model Group"
+msgstr "Grupo de modelos"
+
+#: src/agyinfodialog.cpp:344
+#, kde-format
+msgid "Limit Window"
+msgstr "Ventana de límite"
+
+#: src/agyinfodialog.cpp:345
+#, kde-format
+msgid "Remaining"
+msgstr "Restante"
+
+#: src/agyinfodialog.cpp:346
+#, kde-format
+msgid "Estimated Reset"
+msgstr "Reinicio estimado"
+
+#: src/agyinfodialog.cpp:367 src/slashcommandrouter.cpp:151
+#, kde-format
+msgid "None (General Workspace)"
+msgstr "Ninguno (Espacio de trabajo general)"
+
+#: src/agyinfodialog.cpp:381
+#, kde-format
+msgid "Project Information"
+msgstr "Información del proyecto"
+
+#: src/agyinfodialog.cpp:382
+#, kde-format
+msgid "Project Name"
+msgstr "Nombre del proyecto"
+
+#: src/agyinfodialog.cpp:383
+#, kde-format
+msgid "Root Directory"
+msgstr "Directorio raíz"
+
+#: src/agyinfodialog.cpp:384
+#, kde-format
+msgid "Git Branch"
+msgstr "Rama de Git"
+
+#: src/agyinfodialog.cpp:384
+#, kde-format
+msgid "Not a git repository"
+msgstr "No es un repositorio Git"
+
+#: src/agyinfodialog.cpp:385
+#, kde-format
+msgid "Session Messages"
+msgstr "Mensajes de la sesión"
+
+#: src/agyinfodialog.cpp:385
+#, kde-format
+msgid "messages"
+msgstr "mensajes"
+
+#: src/chathtmlrenderer.cpp:88
+#, kde-format
+msgid "📋 Copy"
+msgstr "📋 Copiar"
+
+#: src/chathtmlrenderer.cpp:88
+#, kde-format
+msgid "📥 Insert"
+msgstr "📥 Insertar"
+
+#: src/chathtmlrenderer.cpp:88
+#, kde-format
+msgid "🔄 Replace"
+msgstr "🔄 Reemplazar"
+
+#: src/chathtmlrenderer.cpp:106
+#, kde-format
+msgid "👤 You:"
+msgstr "👤 Tú:"
+
+#: src/chathtmlrenderer.cpp:135
+#, kde-format
+msgid "⚙️ Antigravity:"
+msgstr "⚙️ Antigravity:"
+
+#: src/chathtmlrenderer.cpp:147
+#, kde-format
+msgid "Thinking response..."
+msgstr "Pensando respuesta..."
+
+#: src/chathtmlrenderer.cpp:159
+#, kde-format
+msgid "🩹 Review &amp; apply changes"
+msgstr "🩹 Revisar y aplicar cambios"
+
+#: src/chathtmlrenderer.cpp:181
+#, kde-format
+msgid "⚠️ Error:"
+msgstr "⚠️ Error:"
+
+#: src/chathtmlrenderer.cpp:192
+#, kde-format
+msgid "Restore hidden messages"
+msgstr "Restaurar mensajes ocultos"
+
+#: src/chathtmlrenderer.cpp:196
+#, kde-format
+msgid "Delete messages permanently"
+msgstr "Borrar mensajes definitivamente"
+
+#: src/chathtmlrenderer.cpp:206
+#, kde-format
+msgid "Chat display cleared"
+msgstr "Pantalla del chat limpiada"
+
+#: src/chathtmlrenderer.cpp:207 src/chatwidget.cpp:786
+#, kde-format
+msgid "The assistant still remembers previous context and messages."
+msgstr "El asistente aún recuerda el contexto y los mensajes anteriores."
+
+#: src/chathtmlrenderer.cpp:225
+#, kde-format
+msgid "Intelligent code assistant for Kate"
+msgstr "Asistente inteligente de código para Kate"
+
+#: src/chathtmlrenderer.cpp:226
+#, kde-format
+msgid "💡 How to get started?"
+msgstr "💡 ¿Cómo empezar?"
+
+#: src/chathtmlrenderer.cpp:227
+#, kde-format
+msgid "• Type your question or prompt in the top box."
+msgstr "• Escribe tu duda o prompt en el cuadro superior."
+
+#: src/chathtmlrenderer.cpp:228
+#, kde-format
+msgid "• Check <b>\"Attach current file\"</b> for context."
+msgstr "• Marca <b>\"Adjuntar archivo actual\"</b> para contexto."
+
+#: src/chathtmlrenderer.cpp:229
+#, kde-format
+msgid "• Press <b>Ctrl+Enter</b> to send your message."
+msgstr "• Presiona <b>Ctrl+Enter</b> para enviar tu mensaje."
+
+#: src/chathtmlrenderer.cpp:241
+#, kde-format
+msgid "%1 earlier messages hidden (context active)"
+msgstr "%1 mensajes anteriores ocultos (contexto activo)"
+
+#: src/chathtmlrenderer.cpp:242
+#, kde-format
+msgid "Show earlier messages"
+msgstr "Mostrar mensajes anteriores"
+
+#: src/chathtmlrenderer.cpp:243 src/chatwidget.cpp:797
+#, kde-format
+msgid "Delete permanently"
+msgstr "Borrar definitivamente"
+
+#: src/chathtmlrenderer.cpp:274
+#, kde-format
+msgid "No messages match \"%1\"."
+msgstr "Ningún mensaje coincide con \"%1\"."
+
+#: src/chathtmlrenderer.cpp:278
+#, kde-format
+msgid "%1 message(s) matching \"%2\""
+msgstr "%1 mensaje(s) que coinciden con \"%2\""
+
+#: src/chatsession.cpp:179
+#, kde-format
+msgid ""
+"⚠️ The agent reported a scratch working directory instead of the workspace "
+"root (%1). File access may be limited."
+msgstr ""
+"⚠️ El agente reportó un directorio temporal (scratch) en lugar de la raíz del "
+"espacio de trabajo (%1). El acceso a los archivos puede ser limitado."
+
+#: src/chatsession.cpp:375
+#, kde-format
+msgid "New conversation started"
+msgstr "Nueva conversación iniciada"
+
+#: src/chatsession.cpp:408
+#, kde-format
+msgid "[Generation cancelled by user]"
+msgstr "[Generación cancelada por el usuario]"
+
+#: src/chatsession.cpp:410
+#, kde-format
+msgid "[Cancelled]"
+msgstr "[Cancelado]"
+
+#: src/chatsession.cpp:416
+#, kde-format
+msgid "Generation cancelled"
+msgstr "Generación cancelada"
+
+#: src/chatsession.cpp:529 src/chatwidget.cpp:942
+#, kde-format
+msgid "Generating response..."
+msgstr "Generando respuesta..."
+
+#: src/chatsession.cpp:537
+#, kde-format
+msgid ""
+"ℹ️ Image attachments require the Direct Gemini API backend; the image was "
+"ignored for this CLI turn."
+msgstr ""
+"ℹ️ Adjuntar imágenes requiere el backend de API directa de Gemini; la imagen "
+"se ignoró en este turno por CLI."
+
+#: src/chatsession.cpp:598 src/chatsession.cpp:802 src/chatwidget.cpp:709
+#: src/chatwidget.cpp:944
+#, kde-format
+msgid "Ready"
+msgstr "Listo"
+
+#: src/chatsession.cpp:604
+#, kde-format
+msgid "Antigravity error: %1"
+msgstr "Error de Antigravity: %1"
+
+#: src/chatsession.cpp:608
+#, kde-format
+msgid "Generation error"
+msgstr "Error en generación"
+
+#: src/chatsession.cpp:619
+#, kde-format
+msgid "Error in agy CLI subprocess"
+msgstr "Error en el subproceso de agy CLI"
+
+#: src/chatsession.cpp:626
+#, kde-format
+msgid "Error in agy CLI"
+msgstr "Error en agy CLI"
+
+#: src/chatsession.cpp:633
+#, kde-format
+msgid ""
+"Gemini API key is not configured. Go to Settings -> Configure Kate... -> "
+"Antigravity."
+msgstr ""
+"No se ha configurado la clave de API de Gemini. Ve a Preferencias -> "
+"Configurar Kate... -> Antigravity."
+
+#: src/chatsession.cpp:639
+#, kde-format
+msgid "API key missing"
+msgstr "Clave de API ausente"
+
+#: src/chatsession.cpp:784
+#, kde-format
+msgid "Gemini API error: %1"
+msgstr "Error en API de Gemini: %1"
+
+#: src/chatsession.cpp:791
+#, kde-format
+msgid "Gemini API error"
+msgstr "Error en API de Gemini"
+
+#: src/chatwidget.cpp:57
+#, kde-format
+msgid ""
+"Write a prompt, type / for commands, @ to mention files... (Ctrl+Enter to "
+"send)"
+msgstr ""
+"Escribe una instrucción, escribe / para comandos, @ para mencionar "
+"archivos... (Ctrl+Enter para enviar)"
+
+#: src/chatwidget.cpp:202
+#, kde-format
+msgid "[Special] Active file compiler marks and LSP diagnostics"
+msgstr "[Especial] Marcas de compilación y diagnósticos LSP del archivo activo"
+
+#: src/chatwidget.cpp:205
+#, kde-format
+msgid "[Special] The current editor selection"
+msgstr "[Especial] La selección actual del editor"
+
+#: src/chatwidget.cpp:208
+#, kde-format
+msgid "[Special] Uncommitted git changes (staged and unstaged)"
+msgstr "[Especial] Cambios de git sin confirmar (preparados y sin preparar)"
+
+#: src/chatwidget.cpp:211
+#, kde-format
+msgid "[Special] Best-effort embedded terminal output"
+msgstr "[Especial] Salida del terminal integrado (mejor esfuerzo)"
+
+#: src/chatwidget.cpp:214
+#, kde-format
+msgid "[Special] Find a symbol definition, e.g. @symbol:MyClass"
+msgstr "[Especial] Buscar la definición de un símbolo, p. ej. @symbol:MiClase"
+
+#: src/chatwidget.cpp:235
+#, kde-format
+msgid "[Folder]"
+msgstr "[Carpeta]"
+
+#: src/chatwidget.cpp:238
+#, kde-format
+msgid "[Open] (%1 lines)"
+msgstr "[Abierto] (%1 lín.)"
+
+#: src/chatwidget.cpp:364
+#, kde-format
+msgid "N/A"
+msgstr "N/D"
+
+#: src/chatwidget.cpp:359
+#, kde-format
+msgid ""
+"Google AI Account: %1\n"
+"Name: %2\n"
+"Auth: %3\n"
+"\n"
+"(Click to view session usage and statistics)"
+msgstr ""
+"Cuenta Google AI: %1\n"
+"Nombre: %2\n"
+"Autenticación: %3\n"
+"\n"
+"(Clic para ver estadísticas de uso y sesión)"
+
+#: src/chatwidget.cpp:368
+#, kde-format
+msgid "Guest"
+msgstr "Invitado"
+
+#: src/chatwidget.cpp:369
+#, kde-format
+msgid ""
+"Not logged into Google AI.\n"
+"(Click to view details)"
+msgstr ""
+"No has iniciado sesión en Google AI.\n"
+"(Clic para ver detalles)"
+
+#: src/chatwidget.cpp:379
+#, kde-format
+msgid ""
+"Connection: %1\n"
+"Model: %2\n"
+"\n"
+"(Click to switch model)"
+msgstr ""
+"Conexión: %1\n"
+"Modelo: %2\n"
+"\n"
+"(Haz clic para cambiar de modelo)"
+
+#: src/chatwidget.cpp:392
+#, kde-format
+msgid "Model switched to: %1"
+msgstr "Modelo cambiado a: %1"
+
+#: src/chatwidget.cpp:398
+#, kde-format
+msgid "Custom model... (/model)"
+msgstr "Modelo personalizado... (/model)"
+
+#: src/chatwidget.cpp:477
+#, kde-format
+msgid "Select active project chat session (right-click to rename or remove)"
+msgstr ""
+"Seleccionar la sesión de chat del proyecto activo (clic derecho para "
+"renombrar o quitar)"
+
+#: src/chatwidget.cpp:509
+#, kde-format
+msgid "Clear"
+msgstr "Limpiar"
+
+#: src/chatwidget.cpp:510
+#, kde-format
+msgid ""
+"Clear Chat (Ctrl+L)\n"
+"Clears the visible dialogue while preserving active context in memory."
+msgstr ""
+"Limpiar chat (Ctrl+L)\n"
+"Oculta los mensajes visibles manteniendo el contexto activo en memoria."
+
+#: src/chatwidget.cpp:526
+#, kde-format
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: src/chatwidget.cpp:527
+#, kde-format
+msgid ""
+"Reset Context (/reset)\n"
+"Starts a new conversation from scratch and clears memory."
+msgstr ""
+"Reiniciar contexto (/reset)\n"
+"Inicia una nueva conversación desde cero y vacía la memoria."
+
+#: src/chatwidget.cpp:547
+#, kde-format
+msgid "Workspace pinned (auto-switch off)"
+msgstr "Espacio de trabajo anclado (cambio automático desactivado)"
+
+#: src/chatwidget.cpp:548
+#, kde-format
+msgid "Workspace unpinned (auto-switch on)"
+msgstr "Espacio de trabajo desanclado (cambio automático activado)"
+
+#: src/chatwidget.cpp:560
+#, kde-format
+msgid "Workspace actions (add, rename, remove)"
+msgstr "Acciones del espacio de trabajo (añadir, renombrar, quitar)"
+
+#: src/chatwidget.cpp:567 src/chatwidget.cpp:1158
+#, kde-format
+msgid "Add workspace…"
+msgstr "Añadir espacio de trabajo…"
+
+#: src/chatwidget.cpp:571
+#, kde-format
+msgid "Rename current workspace…"
+msgstr "Renombrar el espacio de trabajo actual…"
+
+#: src/chatwidget.cpp:574
+#, kde-format
+msgid "Remove current workspace"
+msgstr "Quitar el espacio de trabajo actual"
+
+#: src/chatwidget.cpp:586
+#, kde-format
+msgid "Search in conversation history"
+msgstr "Buscar en el historial de la conversación"
+
+#: src/chatwidget.cpp:603
+#, kde-format
+msgid "Search messages..."
+msgstr "Buscar mensajes..."
+
+#: src/chatwidget.cpp:674
+#, kde-format
+msgid "Attach current file"
+msgstr "Adjuntar archivo actual"
+
+#: src/chatwidget.cpp:676
+#, kde-format
+msgid ""
+"If checked, includes the content or selection of the active file in your "
+"prompt"
+msgstr ""
+"Si se marca, incluye el contenido o selección del archivo abierto en tu "
+"consulta"
+
+#: src/chatwidget.cpp:695
+#, kde-format
+msgid "Attach an image (Direct Gemini API only)"
+msgstr "Adjuntar una imagen (solo API directa de Gemini)"
+
+#: src/chatwidget.cpp:732
+#, kde-format
+msgid "Stop"
+msgstr "Detener"
+
+#: src/chatwidget.cpp:734
+#, kde-format
+msgid "Stop ongoing generation"
+msgstr "Detener generación en curso"
+
+#: src/chatwidget.cpp:737
+#, kde-format
+msgid "Send"
+msgstr "Enviar"
+
+#: src/chatwidget.cpp:740
+#, kde-format
+msgid "Send prompt (Ctrl+Enter)"
+msgstr "Enviar consulta (Ctrl+Enter)"
+
+#: src/chatwidget.cpp:781
+#, kde-format
+msgid "Hidden messages."
+msgstr "Mensajes ocultos."
+
+#: src/chatwidget.cpp:795
+#, kde-format
+msgid "Restore messages"
+msgstr "Restaurar mensajes"
+
+#: src/chatwidget.cpp:807 src/chatwidget.cpp:1491
+#, kde-format
+msgid "Chat history restored"
+msgstr "Historial de chat restaurado"
+
+#: src/chatwidget.cpp:839
+#, kde-format
+msgid "No editor"
+msgstr "Sin editor"
+
+#: src/chatwidget.cpp:846
+#, kde-format
+msgid "No document"
+msgstr "Sin documento"
+
+#: src/chatwidget.cpp:853 src/mentionresolver.cpp:228 src/pluginview.cpp:545
+#: src/pluginview.cpp:560
+#, kde-format
+msgid "Untitled"
+msgstr "Sin título"
+
+#: src/chatwidget.cpp:859
+#, kde-format
+msgid "📄 %1 (%2 lines)"
+msgstr "📄 %1 (%2 lín.)"
+
+#: src/chatwidget.cpp:861
+#, kde-format
+msgid "📄 %1"
+msgstr "📄 %1"
+
+#: src/chatwidget.cpp:987
+#, kde-format
+msgid ""
+"Workspace pinned: the chat won't follow the active file. Click to unpin."
+msgstr ""
+"Espacio de trabajo anclado: el chat no seguirá al archivo activo. Haz clic "
+"para desanclar."
+
+#: src/chatwidget.cpp:990
+#, kde-format
+msgid "Workspace follows the active file. Click to pin the current workspace."
+msgstr ""
+"El espacio de trabajo sigue al archivo activo. Haz clic para anclar el "
+"espacio actual."
+
+#: src/chatwidget.cpp:1001
+#, kde-format
+msgid "Add workspace folder"
+msgstr "Añadir carpeta de espacio de trabajo"
+
+#: src/chatwidget.cpp:1019
+#, kde-format
+msgid "Workspace added: %1"
+msgstr "Espacio de trabajo añadido: %1"
+
+#: src/chatwidget.cpp:1029
+#, kde-format
+msgid "Rename workspace…"
+msgstr "Renombrar espacio de trabajo…"
+
+#: src/chatwidget.cpp:1030 src/chatwidget.cpp:1067
+#, kde-format
+msgid "Remove workspace"
+msgstr "Quitar espacio de trabajo"
+
+#: src/chatwidget.cpp:1049
+#, kde-format
+msgid "Rename workspace"
+msgstr "Renombrar espacio de trabajo"
+
+#: src/chatwidget.cpp:1049
+#, kde-format
+msgid "New name:"
+msgstr "Nuevo nombre:"
+
+#: src/chatwidget.cpp:1055
+#, kde-format
+msgid "Workspace renamed"
+msgstr "Espacio de trabajo renombrado"
+
+#: src/chatwidget.cpp:1068
+#, kde-format
+msgid ""
+"Remove this workspace and its saved conversation?\n"
+"\n"
+"%1"
+msgstr ""
+"¿Quitar este espacio de trabajo y su conversación guardada?\n"
+"\n"
+"%1"
+
+#: src/chatwidget.cpp:1073
+#, kde-format
+msgid "Workspace removed"
+msgstr "Espacio de trabajo eliminado"
+
+#: src/chatwidget.cpp:1148
+#, kde-format
+msgid "General workspace"
+msgstr "Espacio de trabajo general"
+
+#: src/chatwidget.cpp:1186
+#, kde-format
+msgid "Mentioned: %1"
+msgstr "Mencionados: %1"
+
+#: src/chatwidget.cpp:1220
+#, kde-format
+msgid "Auto-context: %1"
+msgstr "Contexto automático: %1"
+
+#: src/chatwidget.cpp:1243
+#, kde-format
+msgid "Active File: %1 (%2), Selection: lines %3-%4"
+msgstr "Archivo activo: %1 (%2), Selección: líneas %3-%4"
+
+#: src/chatwidget.cpp:1257
+#, kde-format
+msgid "Active File: %1 (%2), Cursor at line %3"
+msgstr "Archivo activo: %1 (%2), Cursor en línea %3"
+
+#: src/chatwidget.cpp:1298
+#, kde-format
+msgid "Delete hidden messages"
+msgstr "Borrar mensajes ocultos"
+
+#: src/chatwidget.cpp:1299
+#, kde-format
+msgid ""
+"Permanently delete %1 hidden message(s)? The assistant keeps its own "
+"context; only the chat history is removed."
+msgstr ""
+"¿Borrar definitivamente %1 mensaje(s) oculto(s)? El asistente conserva su "
+"propio contexto; solo se elimina el historial del chat."
+
+#: src/chatwidget.cpp:1306
+#, kde-format
+msgid "Hidden messages deleted"
+msgstr "Mensajes ocultos borrados"
+
+#: src/chatwidget.cpp:1317
+#, kde-format
+msgid "Chat cleared (context preserved)"
+msgstr "Chat limpiado (contexto preservado)"
+
+#: src/chatwidget.cpp:1328
+#, kde-format
+msgid "Context reset (new conversation)"
+msgstr "Contexto reiniciado (nueva conversación)"
+
+#: src/chatwidget.cpp:1380
+#, kde-format
+msgid "Error: %1"
+msgstr "Error: %1"
+
+#: src/chatwidget.cpp:1516
+#, kde-format
+msgid "Opened: %1"
+msgstr "Abierto: %1"
+
+#: src/chatwidget.cpp:1536
+#, kde-format
+msgid "Copied!"
+msgstr "¡Copiado!"
+
+#: src/chatwidget.cpp:1542 src/chatwidget.cpp:1558
+#, kde-format
+msgid "Insert code"
+msgstr "Insertar código"
+
+#: src/chatwidget.cpp:1544
+#, kde-format
+msgid "the current document"
+msgstr "el documento actual"
+
+#: src/chatwidget.cpp:1543
+#, kde-format
+msgid "Insert this snippet at the cursor in %1?"
+msgstr "¿Insertar este fragmento en el cursor de %1?"
+
+#: src/chatwidget.cpp:1548 src/chatwidget.cpp:1566
+#, kde-format
+msgid "Inserted"
+msgstr "Insertado"
+
+#: src/chatwidget.cpp:1556
+#, kde-format
+msgid ""
+"Replace the current selection with this snippet? This overwrites the "
+"selected text."
+msgstr ""
+"¿Reemplazar la selección actual por este fragmento? Esto sobrescribe el "
+"texto seleccionado."
+
+#: src/chatwidget.cpp:1557
+#, kde-format
+msgid "No selection: insert this snippet at the cursor?"
+msgstr "Sin selección: ¿insertar este fragmento en el cursor?"
+
+#: src/chatwidget.cpp:1558
+#, kde-format
+msgid "Replace selection"
+msgstr "Reemplazar selección"
+
+#: src/chatwidget.cpp:1566
+#, kde-format
+msgid "Replaced"
+msgstr "Reemplazado"
+
+#: src/chatwidget.cpp:1591
+#, kde-format
+msgid "No applicable edit blocks found."
+msgstr "No se encontraron bloques de edición aplicables."
+
+#: src/chatwidget.cpp:1600
+#, kde-format
+msgid "Review & Apply Changes"
+msgstr "Revisar y aplicar cambios"
+
+#: src/chatwidget.cpp:1604
+#, kde-format
+msgid ""
+"%1 change(s) proposed. Review and choose which to apply to your open "
+"documents."
+msgstr ""
+"%1 cambio(s) propuesto(s). Revisa y elige cuáles aplicar a tus documentos "
+"abiertos."
+
+#: src/chatwidget.cpp:1629
+#, kde-format
+msgid "⚠️ File not open in the editor — open it to apply this change."
+msgstr ""
+"⚠️ El archivo no está abierto en el editor — ábrelo para aplicar este cambio."
+
+#: src/chatwidget.cpp:1635
+#, kde-format
+msgid "✅ Exact match at line %1."
+msgstr "✅ Coincidencia exacta en la línea %1."
+
+#: src/chatwidget.cpp:1639
+#, kde-format
+msgid "✅ Match (whitespace-insensitive) at line %1."
+msgstr "✅ Coincidencia (ignorando espacios) en la línea %1."
+
+#: src/chatwidget.cpp:1643
+#, kde-format
+msgid "➕ Will insert new content."
+msgstr "➕ Se insertará contenido nuevo."
+
+#: src/chatwidget.cpp:1647
+#, kde-format
+msgid "⚠️ Original text not found — cannot apply automatically."
+msgstr ""
+"⚠️ No se encontró el texto original — no se puede aplicar automáticamente."
+
+#: src/chatwidget.cpp:1653
+#, kde-format
+msgid "(unspecified file)"
+msgstr "(archivo sin especificar)"
+
+#: src/chatwidget.cpp:1683
+#, kde-format
+msgid "Apply Selected"
+msgstr "Aplicar seleccionados"
+
+#: src/chatwidget.cpp:1710
+#, kde-format
+msgid "Applied %1 change(s)."
+msgstr "Se aplicaron %1 cambio(s)."
+
+#: src/chatwidget.cpp:1712
+#, kde-format
+msgid "Applied %1 change(s), %2 failed."
+msgstr "Se aplicaron %1 cambio(s), %2 fallaron."
+
+#: src/chatwidget.cpp:1724
+#, kde-format
+msgid "⚠️ /commit requires an active project that is a git repository."
+msgstr "⚠️ /commit requiere un proyecto activo que sea un repositorio Git."
+
+#: src/chatwidget.cpp:1731
+#, kde-format
+msgid ""
+"⚠️ Nothing staged to commit. Stage your changes first (e.g. `git add -p`), "
+"then run /commit."
+msgstr ""
+"⚠️ No hay nada preparado para confirmar. Prepara tus cambios primero (p. ej. "
+"`git add -p`) y luego ejecuta /commit."
+
+#: src/chatwidget.cpp:1744
+#, kde-format
+msgid ""
+"Write a git commit message for the following staged diff. Use the "
+"Conventional Commits style: a concise subject line (max ~70 chars), then a "
+"blank line, then a short body explaining what changed and why. Output ONLY "
+"the commit message text, with no code fences or extra commentary."
+msgstr ""
+"Escribe un mensaje de commit de git para el siguiente diff preparado. Usa el "
+"estilo Conventional Commits: una línea de asunto concisa (máx. ~70 "
+"caracteres), luego una línea en blanco y después un cuerpo breve que "
+"explique qué cambió y por qué. Devuelve ÚNICAMENTE el texto del mensaje de "
+"commit, sin bloques de código ni comentarios adicionales."
+
+#: src/chatwidget.cpp:1760
+#, kde-format
+msgid "Generating commit message..."
+msgstr "Generando mensaje de commit..."
+
+#: src/chatwidget.cpp:1762
+#, kde-format
+msgid "Staged diff (git)"
+msgstr "Diff preparado (git)"
+
+#: src/chatwidget.cpp:1773
+#, kde-format
+msgid "Create Git Commit"
+msgstr "Crear commit de Git"
+
+#: src/chatwidget.cpp:1778
+#, kde-format
+msgid ""
+"Review and edit the commit message. Only already-staged changes will be "
+"committed. Hooks are respected; nothing is pushed."
+msgstr ""
+"Revisa y edita el mensaje de commit. Solo se confirmarán los cambios ya "
+"preparados. Se respetan los hooks; no se hace push."
+
+#: src/chatwidget.cpp:1785
+#, kde-format
+msgid ""
+"Staged:\n"
+"%1"
+msgstr ""
+"Preparado:\n"
+"%1"
+
+#: src/chatwidget.cpp:1797
+#, kde-format
+msgid "Create Commit"
+msgstr "Crear commit"
+
+#: src/chatwidget.cpp:1804
+#, kde-format
+msgid "Commit cancelled."
+msgstr "Commit cancelado."
+
+#: src/chatwidget.cpp:1811
+#, kde-format
+msgid ""
+"✅ Commit created:\n"
+"\n"
+"```\n"
+"%1\n"
+"```"
+msgstr ""
+"✅ Commit creado:\n"
+"\n"
+"```\n"
+"%1\n"
+"```"
+
+#: src/chatwidget.cpp:1812
+#, kde-format
+msgid "Commit created"
+msgstr "Commit creado"
+
+#: src/chatwidget.cpp:1814
+#, kde-format
+msgid ""
+"⚠️ Commit failed:\n"
+"\n"
+"```\n"
+"%1\n"
+"```"
+msgstr ""
+"⚠️ El commit falló:\n"
+"\n"
+"```\n"
+"%1\n"
+"```"
+
+#: src/chatwidget.cpp:1815
+#, kde-format
+msgid "Commit failed"
+msgstr "El commit falló"
+
+#: src/chatwidget.cpp:1836
+#, kde-format
+msgid "Apply"
+msgstr "Aplicar"
+
+#: src/chatwidget.cpp:1848 src/chatwidget.cpp:1855
+#, kde-format
+msgid "Attach image"
+msgstr "Adjuntar imagen"
+
+#: src/chatwidget.cpp:1849
+#, kde-format
+msgid ""
+"Image attachments require the Direct Gemini API backend. Switch the "
+"connection mode in Settings to attach images."
+msgstr ""
+"Adjuntar imágenes requiere el backend de API directa de Gemini. Cambia el "
+"modo de conexión en los ajustes para adjuntar imágenes."
+
+#: src/chatwidget.cpp:1856
+#, kde-format
+msgid "Images (*.png *.jpg *.jpeg *.webp *.gif *.heic *.heif)"
+msgstr "Imágenes (*.png *.jpg *.jpeg *.webp *.gif *.heic *.heif)"
+
+#: src/chatwidget.cpp:1863
+#, kde-format
+msgid "Image attached: %1 (sent with your next message)"
+msgstr "Imagen adjuntada: %1 (se enviará con tu próximo mensaje)"
+
+#: src/chatwidget.cpp:1865
+#, kde-format
+msgid "Attached: %1 (click to change)"
+msgstr "Adjuntada: %1 (haz clic para cambiar)"
+
+#: src/configpage.cpp:30 src/pluginview.cpp:53
+#, kde-format
+msgid "Antigravity"
+msgstr "Antigravity"
+
+#: src/configpage.cpp:35
+#, kde-format
+msgid "Antigravity AI Ghost Text Settings"
+msgstr "Configuración de Antigravity AI Ghost Text"
+
+#: src/configpage.cpp:48
+#, kde-format
+msgid "Inline Code Completion"
+msgstr "Autocompletado en Línea"
+
+#: src/configpage.cpp:51
+#, kde-format
+msgid "Enable automatic suggestions while typing"
+msgstr "Habilitar sugerencias automáticas mientras se escribe"
+
+#: src/configpage.cpp:58
+#, kde-format
+msgid "Suggestion delay (Debounce):"
+msgstr "Retardo de sugerencia (Debounce):"
+
+#: src/configpage.cpp:63
+#, kde-format
+msgid "Model & AI"
+msgstr "Modelo e IA"
+
+#: src/configpage.cpp:69
+#, kde-format
+msgid "Chat model:"
+msgstr "Modelo de chat:"
+
+#: src/configpage.cpp:74
+#, kde-format
+msgid ""
+"Model used for inline ghost-text completions (a fast model is recommended)."
+msgstr ""
+"Modelo usado para el autocompletado en línea (ghost text); se recomienda un "
+"modelo rápido."
+
+#: src/configpage.cpp:75
+#, kde-format
+msgid "Inline completion model:"
+msgstr "Modelo de autocompletado en línea:"
+
+#: src/configpage.cpp:78
+#, kde-format
+msgid "Antigravity CLI (stream-json, zero-config)"
+msgstr "CLI de Antigravity (stream-json, sin configuración)"
+
+#: src/configpage.cpp:79
+#, kde-format
+msgid "Direct Gemini API (HTTPS)"
+msgstr "API Directa de Gemini (HTTPS)"
+
+#: src/configpage.cpp:80
+#, kde-format
+msgid "Connection mode:"
+msgstr "Modo de conexión:"
+
+#: src/configpage.cpp:85
+#, kde-format
+msgid "Optional: only required for Direct API mode"
+msgstr "Opcional: solo necesario en modo API Directa"
+
+#: src/configpage.cpp:87
+#, kde-format
+msgid "Manage API Key..."
+msgstr "Gestionar API Key..."
+
+#: src/configpage.cpp:89
+#, kde-format
+msgid ""
+"Open Google AI Studio (https://aistudio.google.com/app/api-keys) in browser"
+msgstr ""
+"Abrir Google AI Studio (https://aistudio.google.com/app/api-keys) en el "
+"navegador"
+
+#: src/configpage.cpp:96
+#, kde-format
+msgid "Gemini API Key:"
+msgstr "Clave de API (Gemini):"
+
+#: src/configpage.cpp:101
+#, kde-format
+msgid "Context Window (Lines)"
+msgstr "Ventana de Contexto (Líneas)"
+
+#: src/configpage.cpp:107
+#, kde-format
+msgid "Lines before cursor (Prefix):"
+msgstr "Líneas previas al cursor (Prefijo):"
+
+#: src/configpage.cpp:112
+#, kde-format
+msgid "Lines after cursor (Suffix):"
+msgstr "Líneas posteriores al cursor (Sufijo):"
+
+#: src/configpage.cpp:117
+#, kde-format
+msgid "Chat Window (Antigravity)"
+msgstr "Ventana de Chat (Antigravity)"
+
+#: src/configpage.cpp:121
+#, kde-format
+msgid "Right sidebar (Independent panel)"
+msgstr "Barra lateral derecha (Panel independiente)"
+
+#: src/configpage.cpp:122
+#, kde-format
+msgid "Left sidebar (Next to Documents/Projects)"
+msgstr "Barra lateral izquierda (Junto a Documentos/Proyectos)"
+
+#: src/configpage.cpp:123
+#, kde-format
+msgid "Panel position:"
+msgstr "Posición del panel:"
+
+#: src/configpage.cpp:125
+#, kde-format
+msgid "Automatically switch chat session to active file's project"
+msgstr ""
+"Cambiar automáticamente la sesión de chat al proyecto del archivo activo"
+
+#: src/editblockapplier.cpp:92
+#, kde-format
+msgid "No document to apply changes to."
+msgstr "No hay ningún documento al que aplicar cambios."
+
+#: src/editblockapplier.cpp:102
+#, kde-format
+msgid "the document"
+msgstr "el documento"
+
+#: src/editblockapplier.cpp:101
+#, kde-format
+msgid "Could not locate the original text to replace in %1."
+msgstr "No se pudo localizar el texto original a reemplazar en %1."
+
+#: src/gitcommithelper.cpp:31
+#, kde-format
+msgid "git timed out"
+msgstr "git agotó el tiempo de espera"
+
+#: src/gitcommithelper.cpp:80
+#, kde-format
+msgid "Not a git repository."
+msgstr "No es un repositorio Git."
+
+#: src/gitcommithelper.cpp:84
+#, kde-format
+msgid "Empty commit message."
+msgstr "Mensaje de commit vacío."
+
+#: src/gitcommithelper.cpp:88
+#, kde-format
+msgid "Nothing staged to commit. Stage changes first (git add)."
+msgstr ""
+"No hay nada preparado para confirmar. Prepara los cambios primero (git add)."
+
+#: src/gitcommithelper.cpp:100
+#, kde-format
+msgid "git commit failed."
+msgstr "El comando git commit falló."
+
+#: src/mentionresolver.cpp:135
+#, kde-format
+msgid "⚠️ @symbol:%1 needs a project root to search in."
+msgstr "⚠️ @symbol:%1 necesita una raíz de proyecto donde buscar."
+
+#: src/mentionresolver.cpp:141
+#, kde-format
+msgid "⚠️ No definition found for symbol @symbol:%1."
+msgstr "⚠️ No se encontró definición para el símbolo @symbol:%1."
+
+#: src/mentionresolver.cpp:209
+#, kde-format
+msgid "No compiler errors or warnings currently marked in open documents."
+msgstr ""
+"No se detectaron errores o advertencias de compilación en los documentos "
+"abiertos."
+
+#: src/mentionresolver.cpp:232
+#, kde-format
+msgid "⚠️ @selection: no active text selection in the editor."
+msgstr "⚠️ @selection: no hay ninguna selección de texto activa en el editor."
+
+#: src/mentionresolver.cpp:257
+#, kde-format
+msgid ""
+"⚠️ @terminal: could not read the embedded terminal output. Kate's terminal "
+"does not expose its buffer; paste the output manually, or use @git-diff for "
+"repository changes."
+msgstr ""
+"⚠️ @terminal: no se pudo leer la salida del terminal integrado. El terminal "
+"de Kate no expone su búfer; pega la salida manualmente o usa @git-diff para "
+"los cambios del repositorio."
+
+#: src/mentionresolver.cpp:277
+#, kde-format
+msgid "⚠️ @%1: no project root to run git in."
+msgstr "⚠️ @%1: no hay raíz de proyecto donde ejecutar git."
+
+#: src/mentionresolver.cpp:283
+#, kde-format
+msgid ""
+"### 🔀 Git Diff\n"
+"No uncommitted changes (working tree clean)."
+msgstr ""
+"### 🔀 Git Diff\n"
+"No hay cambios sin confirmar (árbol de trabajo limpio)."
+
+#: src/mentionresolver.cpp:323 src/mentionresolver.cpp:359
+#, kde-format
+msgid "⚠️ @%1 is outside the project directory and was skipped."
+msgstr "⚠️ @%1 está fuera del directorio del proyecto y se omitió."
+
+#: src/mentionresolver.cpp:353
+#, kde-format
+msgid "⚠️ File or folder not found: @%1"
+msgstr "⚠️ Archivo o carpeta no encontrado: @%1"
+
+#: src/mentionresolver.cpp:429
+#, kde-format
+msgid ""
+"⚠️ Folder @%1 has too many items and was truncated to the first %2 items."
+msgstr ""
+"⚠️ La carpeta @%1 contiene demasiados elementos y fue truncada a los primeros "
+"%2 elementos."
+
+#: src/mentionresolver.cpp:458
+#, kde-format
+msgid "⚠️ Could not open file for reading: @%1"
+msgstr "⚠️ No se pudo abrir el archivo para lectura: @%1"
+
+#: src/mentionresolver.cpp:488
+#, kde-format
+msgid "⚠️ File @%1 exceeds the limit (%2 lines / 20 KB) and was truncated."
+msgstr "⚠️ El archivo @%1 supera el límite (%2 líneas / 20 KB) y fue truncado."
+
+#: src/pluginview.cpp:73
+#, kde-format
+msgid "Antigravity Chat"
+msgstr "Antigravity Chat"
+
+#: src/pluginview.cpp:151
+#, kde-format
+msgid "Trigger Antigravity Suggestion"
+msgstr "Activar sugerencia de Antigravity"
+
+#: src/pluginview.cpp:157
+#, kde-format
+msgid "Clear Antigravity Suggestion"
+msgstr "Borrar sugerencia de Antigravity"
+
+#: src/pluginview.cpp:161
+#, kde-format
+msgid "Toggle Antigravity Chat"
+msgstr "Alternar Chat de Antigravity"
+
+#: src/pluginview.cpp:168 src/pluginview.cpp:449
+#, kde-format
+msgid "Send Selection to Chat"
+msgstr "Enviar selección al Chat"
+
+#: src/pluginview.cpp:173 src/pluginview.cpp:462
+#, kde-format
+msgid ""
+"Explain in detail what this code does, its logic and potential edge cases."
+msgstr ""
+"Explica detalladamente qué hace este código, su lógica y posibles casos "
+"especiales."
+
+#: src/pluginview.cpp:175
+#, kde-format
+msgid "Explain Code with Antigravity"
+msgstr "Explicar código con Antigravity"
+
+#: src/pluginview.cpp:180 src/pluginview.cpp:470
+#, kde-format
+msgid ""
+"Refactor and optimize this code following best practices and clean code "
+"principles."
+msgstr ""
+"Refactoriza y optimiza este código siguiendo las mejores prácticas y "
+"limpieza."
+
+#: src/pluginview.cpp:182
+#, kde-format
+msgid "Refactor and Optimize Code"
+msgstr "Refactorizar y optimizar código"
+
+#: src/pluginview.cpp:187 src/pluginview.cpp:478
+#, kde-format
+msgid "Analyze this code for potential bugs, edge cases, or security issues."
+msgstr ""
+"Analiza este código en busca de posibles errores, bugs, casos límite o "
+"problemas de seguridad."
+
+#: src/pluginview.cpp:189 src/pluginview.cpp:475
+#, kde-format
+msgid "Find Bugs or Vulnerabilities"
+msgstr "Buscar errores o vulnerabilidades"
+
+#: src/pluginview.cpp:194 src/pluginview.cpp:486
+#, kde-format
+msgid "Generate comprehensive unit tests for this code."
+msgstr "Genera pruebas unitarias exhaustivas para este código."
+
+#: src/pluginview.cpp:196 src/pluginview.cpp:483
+#, kde-format
+msgid "Generate Unit Tests"
+msgstr "Generar pruebas unitarias"
+
+#: src/pluginview.cpp:288
+#, kde-format
+msgid "Chat with Antigravity (Ctrl+Alt+A)"
+msgstr "Chat con Antigravity (Ctrl+Alt+A)"
+
+#: src/pluginview.cpp:426 src/pluginview.cpp:439
+#, kde-format
+msgid "✨ Antigravity AI"
+msgstr "✨ Antigravity AI"
+
+#: src/pluginview.cpp:459
+#, kde-format
+msgid "Explain Code"
+msgstr "Explicar código"
+
+#: src/pluginview.cpp:467
+#, kde-format
+msgid "Refactor and Optimize"
+msgstr "Refactorizar y optimizar"
+
+#: src/pluginview.cpp:491
+#, kde-format
+msgid "Open Antigravity Chat"
+msgstr "Abrir Chat de Antigravity"
+
+#: src/pluginview.cpp:505
+#, kde-format
+msgid "Suggest Code Here"
+msgstr "Sugerir código aquí"
+
+#: src/pluginview.cpp:544
+#, kde-format
+msgid "File: %1 (%2), Selection: lines %3-%4"
+msgstr "Archivo: %1 (%2), Selección: líneas %3-%4"
+
+#: src/pluginview.cpp:559
+#, kde-format
+msgid "File: %1 (%2), Cursor at line %3"
+msgstr "Archivo: %1 (%2), Cursor en línea %3"
+
+#: src/projectdetector.cpp:13 src/projectdetector.cpp:20
+#: src/projectdetector.cpp:79 src/projectdetector.cpp:88
+#, kde-format
+msgid "Global / General"
+msgstr "Global / General"
+
+#: src/projectdetector.cpp:28
+#, kde-format
+msgid "unavailable"
+msgstr "no disponible"
+
+#: src/slashcommandrouter.cpp:65
+#, kde-format
+msgid ""
+"### 🛠️ Antigravity: Commands & Shortcuts\n"
+"\n"
+"| Command | Description |\n"
+"| :--- | :--- |\n"
+"| `/help` | %1 |\n"
+"| `/settings` | %2 |\n"
+"| `/clear` | %3 |\n"
+"| `/reset`, `/new` | %4 |\n"
+"| `/project` | %5 |\n"
+"| `/model [name]` | %6 |\n"
+"| `/usage` | %7 |\n"
+"| `/files` | %8 |\n"
+"| `/export [name]` | %9 |\n"
+"\n"
+"**Tips & Shortcuts:**\n"
+"- Type `@` followed by a file or folder name (e.g. `@src/main.cpp` or `@src/"
+"`) to inject its content into your prompt.\n"
+"- Type `@diagnostics` (or `@errors`) to automatically attach compiler errors "
+"and warning marks from active editor.\n"
+"- Check **\"Attach current file\"** to include the active editor buffer or "
+"current selection.\n"
+"- **Enter** (or **Ctrl+Enter**): Send slash command or prompt.\n"
+"- **Ctrl+L**: Clear visible chat display (preserves context in memory).\n"
+"- **Alt+\\**: Trigger inline AI code completion (Ghost text)."
+msgstr ""
+"### 🛠️ Antigravity: Comandos y atajos\n"
+"\n"
+"| Comando | Descripción |\n"
+"| :--- | :--- |\n"
+"| `/help` | %1 |\n"
+"| `/settings` | %2 |\n"
+"| `/clear` | %3 |\n"
+"| `/reset`, `/new` | %4 |\n"
+"| `/project` | %5 |\n"
+"| `/model [nombre]` | %6 |\n"
+"| `/usage` | %7 |\n"
+"| `/files` | %8 |\n"
+"| `/export [nombre]` | %9 |\n"
+"\n"
+"**Consejos y atajos:**\n"
+"- Escribe `@` seguido del nombre de un archivo o carpeta (p. ej. `@src/main."
+"cpp` o `@src/`) para inyectar su contenido en tu prompt.\n"
+"- Escribe `@diagnostics` (o `@errors`) para adjuntar automáticamente los "
+"errores y advertencias del compilador marcados en el editor activo.\n"
+"- Marca **\"Adjuntar archivo actual\"** para incluir el búfer del editor "
+"activo o la selección actual.\n"
+"- **Enter** (o **Ctrl+Enter**): Enviar el comando o prompt.\n"
+"- **Ctrl+L**: Limpiar la vista del chat (conserva el contexto en memoria).\n"
+"- **Alt+\\**: Disparar el autocompletado de código con IA (texto fantasma)."
+
+#: src/slashcommandrouter.cpp:85 src/slashcommandrouter.cpp:392
+#, kde-format
+msgid "Show available commands and usage tips"
+msgstr "Mostrar comandos disponibles y consejos de uso"
+
+#: src/slashcommandrouter.cpp:86 src/slashcommandrouter.cpp:398
+#, kde-format
+msgid "Open Antigravity configuration dialog"
+msgstr "Abrir diálogo de configuración de Antigravity"
+
+#: src/slashcommandrouter.cpp:87 src/slashcommandrouter.cpp:404
+#, kde-format
+msgid "Clear visible chat display (preserves context in memory)"
+msgstr "Limpiar la pantalla visible del chat (mantiene el contexto en memoria)"
+
+#: src/slashcommandrouter.cpp:88 src/slashcommandrouter.cpp:410
+#, kde-format
+msgid "Reset context and start a new conversation"
+msgstr "Reiniciar contexto y comenzar una nueva conversación"
+
+#: src/slashcommandrouter.cpp:89 src/slashcommandrouter.cpp:416
+#, kde-format
+msgid "Show project root, Git branch, and status"
+msgstr "Mostrar raíz del proyecto, rama de Git y estado"
+
+#: src/slashcommandrouter.cpp:90 src/slashcommandrouter.cpp:422
+#, kde-format
+msgid "View or switch AI model for this session"
+msgstr "Ver o cambiar el modelo de IA para esta sesión"
+
+#: src/slashcommandrouter.cpp:91 src/slashcommandrouter.cpp:428
+#, kde-format
+msgid "Display Google AI account, session stats, and backend info"
+msgstr "Mostrar cuenta Google AI, estadísticas de sesión y backend"
+
+#: src/slashcommandrouter.cpp:92 src/slashcommandrouter.cpp:434
+#, kde-format
+msgid "List currently open documents in Kate"
+msgstr "Listar los documentos abiertos actualmente en Kate"
+
+#: src/slashcommandrouter.cpp:93 src/slashcommandrouter.cpp:440
+#, kde-format
+msgid "Export current conversation to a Markdown file"
+msgstr "Exportar la conversación actual a un archivo Markdown"
+
+#: src/slashcommandrouter.cpp:104
+#, kde-format
+msgid "⚙️ Opened Antigravity configuration dialog."
+msgstr "⚙️ Diálogo de configuración de Antigravity abierto."
+
+#: src/slashcommandrouter.cpp:106
+#, kde-format
+msgid ""
+"⚠️ Configuration dialog cannot be opened at this time. Go to Settings -> "
+"Configure Kate... -> Antigravity."
+msgstr ""
+"⚠️ No se puede abrir el diálogo de configuración en este momento. Ve a "
+"Preferencias -> Configurar Kate... -> Antigravity."
+
+#: src/slashcommandrouter.cpp:116
+#, kde-format
+msgid "🧹 Chat display cleared (context preserved)."
+msgstr "🧹 Pantalla del chat limpiada (contexto preservado)."
+
+#: src/slashcommandrouter.cpp:141
+#, kde-format
+msgid "Not a Git repository"
+msgstr "No es un repositorio Git"
+
+#: src/slashcommandrouter.cpp:144
+#, kde-format
+msgid ""
+"### 📁 Project Information\n"
+"\n"
+"- **Name:** %1\n"
+"- **Root Directory:** `%2`\n"
+"- **Git Branch:** %3\n"
+"- **Session History:** %4 messages\n"
+msgstr ""
+"### 📁 Información del Proyecto\n"
+"\n"
+"- **Nombre:** %1\n"
+"- **Directorio Raíz:** `%2`\n"
+"- **Rama Git:** %3\n"
+"- **Historial de Sesión:** %4 mensajes\n"
+
+#: src/slashcommandrouter.cpp:164
+#, kde-format
+msgid ""
+"### 🤖 Current Model\n"
+"\n"
+"- **Model:** `%1`\n"
+"- **Backend Mode:** %2\n"
+"\n"
+"To change the model for this session, type `/model <name>` (e.g. `/model "
+"gemini-3.8-flash-low`, `/model claude-sonnet-4-6`)."
+msgstr ""
+"### 🤖 Modelo Actual\n"
+"\n"
+"- **Modelo:** `%1`\n"
+"- **Modo backend:** %2\n"
+"\n"
+"Para cambiar el modelo en esta sesión, escribe `/model <nombre>` (ej. `/"
+"model gemini-3.8-flash-low`, `/model claude-sonnet-4-6`)."
+
+#: src/slashcommandrouter.cpp:172
+#, kde-format
+msgid ""
+"✅ Switched model for this session to: **%1**.\n"
+"\n"
+"*(Use `/settings` to change the global default model).*"
+msgstr ""
+"✅ Se cambió el modelo para esta sesión a: **%1**.\n"
+"\n"
+"*(Usa `/settings` para cambiar el modelo predeterminado global).*"
+
+#: src/slashcommandrouter.cpp:194
+#, kde-format
+msgid ""
+"### 📊 Session & Account Statistics\n"
+"\n"
+"- **Google AI Account:** %1\n"
+"- **Auth Method:** %2\n"
+"- **Active Project:** %3\n"
+"- **Current Model:** `%4`\n"
+"- **Connection Backend:** %5\n"
+"- **Messages Exchanged:** %6\n"
+msgstr ""
+"### 📊 Estadísticas y Cuenta de Sesión\n"
+"\n"
+"- **Cuenta Google AI:** %1\n"
+"- **Método de Autenticación:** %2\n"
+"- **Proyecto Activo:** %3\n"
+"- **Modelo Actual:** `%4`\n"
+"- **Modo de Conexión:** %5\n"
+"- **Mensajes Intercambiados:** %6\n"
+
+#: src/slashcommandrouter.cpp:214
+#, kde-format
+msgid ""
+"\n"
+"#### 🔢 Token Usage\n"
+"\n"
+"| Metric | Last Turn | Session Cumulative |\n"
+"| :--- | :---: | :---: |\n"
+"| **Input Tokens** | %1 | %2 |\n"
+"| **Output Tokens** | %3 | %4 |\n"
+"| **Thinking Tokens** | %5 | %6 |\n"
+"| **Total Tokens** | **%7** | **%8** |\n"
+msgstr ""
+"\n"
+"#### 🔢 Consumo de Tokens\n"
+"\n"
+"| Métrica | Último Turno | Acumulado Sesión |\n"
+"| :--- | :---: | :---: |\n"
+"| **Tokens de Entrada** | %1 | %2 |\n"
+"| **Tokens de Salida** | %3 | %4 |\n"
+"| **Tokens de Pensamiento** | %5 | %6 |\n"
+"| **Total de Tokens** | **%7** | **%8** |\n"
+
+#: src/slashcommandrouter.cpp:236
+#, kde-format
+msgid ""
+"\n"
+"#### ⏱️ Quotas & Rate Limits\n"
+"\n"
+"| Model Group | Limit Window | Remaining | Estimated Reset |\n"
+"| :--- | :--- | :---: | :--- |\n"
+msgstr ""
+"\n"
+"#### ⏱️ Cuotas y Límites de Tasa\n"
+"\n"
+"| Grupo de Modelos | Ventana de Límite | Disponible | Reseteo Estimado |\n"
+"| :--- | :--- | :---: | :--- |\n"
+
+#: src/slashcommandrouter.cpp:272
+#, kde-format
+msgid "lines"
+msgstr "líneas"
+
+#: src/slashcommandrouter.cpp:272
+#, kde-format
+msgid ", modified"
+msgstr ", modificado"
+
+#: src/slashcommandrouter.cpp:278
+#, kde-format
+msgid "No open files found in Kate editor."
+msgstr "No se encontraron archivos abiertos en el editor Kate."
+
+#: src/slashcommandrouter.cpp:280
+#, kde-format
+msgid ""
+"### 📂 Open Files in Kate\n"
+"\n"
+msgstr ""
+"### 📂 Archivos Abiertos en Kate\n"
+"\n"
+
+#: src/slashcommandrouter.cpp:290
+#, kde-format
+msgid "⚠️ /commit is only available from the chat panel."
+msgstr "⚠️ /commit solo está disponible desde el panel de chat."
+
+#: src/slashcommandrouter.cpp:299
+#, kde-format
+msgid "⚠️ No messages to export in current session."
+msgstr "⚠️ No hay mensajes para exportar en la sesión actual."
+
+#: src/slashcommandrouter.cpp:325
+#, kde-format
+msgid "⚠️ Failed to create export file: `%1` (%2)"
+msgstr "⚠️ Error al crear el archivo de exportación: `%1` (%2)"
+
+#: src/slashcommandrouter.cpp:376
+#, kde-format
+msgid ""
+"✅ Conversation successfully exported to:\n"
+"📄 **[%1](kateagy://openfile/%2)**\n"
+"\n"
+"*(Click the link to open and edit the exported file in Kate)*"
+msgstr ""
+"✅ Conversación exportada con éxito a:\n"
+"📄 **[%1](kateagy://openfile/%2)**\n"
+"\n"
+"*(Haz clic en el enlace para abrir y editar el archivo en Kate)*"
+
+#: src/slashcommandrouter.cpp:446
+#, kde-format
+msgid "Generate a commit message from staged changes and create the commit"
+msgstr ""
+"Generar un mensaje de commit a partir de los cambios preparados y crear el "
+"commit"
+
+#: src/slashcommandrouter.cpp:499
+#, kde-format
+msgid ""
+"⚠️ Unrecognized command: `/%1`. Type **/help** for a list of available "
+"commands."
+msgstr ""
+"⚠️ Comando no reconocido: `/%1`. Escribe **/help** para ver la lista de "
+"comandos disponibles."
+
+#~ msgid "Error in agy CLI subprocess (code %1)"
+#~ msgstr "Error en subproceso agy CLI (código %1)"
+
+#~ msgid ""
+#~ "Connection: %1\n"
+#~ "Model: %2"
+#~ msgstr ""
+#~ "Conexión: %1\n"
+#~ "Modelo: %2"
+
+#~ msgid "Select active project chat session"
+#~ msgstr "Seleccionar la sesión de chat del proyecto activo"
+
+#~ msgid "New conversation / Clear history (Ctrl+L)"
+#~ msgstr "Nueva conversación / Limpiar historial (Ctrl+L)"
+
+#~ msgid "Conversation cleared"
+#~ msgstr "Conversación limpiada"
+
+#~ msgid "Completion model:"
+#~ msgstr "Modelo de completado:"
+
+#~ msgid "Clear conversation history for this project"
+#~ msgstr "Limpiar el historial de conversación de este proyecto"
+
+#~ msgid ""
+#~ "### 🛠️ Antigravity: Commands & Shortcuts\n"
+#~ "\n"
+#~ "| Command | Description |\n"
+#~ "| :--- | :--- |\n"
+#~ "| `/help` | %1 |\n"
+#~ "| `/settings` | %2 |\n"
+#~ "| `/clear` | %3 |\n"
+#~ "| `/project` | %4 |\n"
+#~ "| `/model [name]` | %5 |\n"
+#~ "| `/usage` | %6 |\n"
+#~ "| `/files` | %7 |\n"
+#~ "\n"
+#~ "**Tips & Shortcuts:**\n"
+#~ "- Type `@` followed by a file or folder name (e.g. `@src/main.cpp` or "
+#~ "`@src/`) to inject its content into your prompt.\n"
+#~ "- Check **\"Attach current file\"** to include the active editor buffer "
+#~ "or current selection.\n"
+#~ "- **Enter** (or **Ctrl+Enter**): Send slash command or prompt.\n"
+#~ "- **Ctrl+L**: Clear conversation history for active project.\n"
+#~ "- **Alt+\\**: Trigger inline AI code completion (Ghost text)."
+#~ msgstr ""
+#~ "### 🛠️ Antigravity: Comandos y Atajos\n"
+#~ "\n"
+#~ "| Comando | Descripción |\n"
+#~ "| :--- | :--- |\n"
+#~ "| `/help` | %1 |\n"
+#~ "| `/settings` | %2 |\n"
+#~ "| `/clear` | %3 |\n"
+#~ "| `/project` | %4 |\n"
+#~ "| `/model [nombre]` | %5 |\n"
+#~ "| `/usage` | %6 |\n"
+#~ "| `/files` | %7 |\n"
+#~ "\n"
+#~ "**Consejos y Atajos:**\n"
+#~ "- Escribe `@` seguido del nombre de un archivo o carpeta (ej. `@src/main."
+#~ "cpp` o `@src/`) para inyectar su contenido en tu consulta.\n"
+#~ "- Marca **\"Adjuntar archivo actual\"** para incluir el búfer del editor "
+#~ "o selección activa.\n"
+#~ "- **Enter** (o **Ctrl+Enter**): Enviar comando slash o consulta.\n"
+#~ "- **Ctrl+L**: Limpiar conversación del proyecto activo.\n"
+#~ "- **Alt+\\**: Activar sugerencia de código con IA (Ghost text)."
+
+#~ msgid "Show this help message"
+#~ msgstr "Mostrar este mensaje de ayuda"
+
+#~ msgid "Clear current project chat session"
+#~ msgstr "Limpiar la sesión de chat del proyecto actual"
+
+#~ msgid "Display project details and Git branch"
+#~ msgstr "Mostrar detalles del proyecto y rama de Git"
+
+#~ msgid "View or change AI model in this session"
+#~ msgstr "Ver o cambiar el modelo de IA en esta sesión"
+
+#~ msgid "Show statistics and connection mode"
+#~ msgstr "Mostrar estadísticas y modo de conexión"
+
+#~ msgid "Antigravity AI"
+#~ msgstr "Antigravity AI"
